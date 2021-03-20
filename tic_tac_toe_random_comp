@@ -1,9 +1,6 @@
 import random
 
 board = [1, 2, 3, 4, "X", 6, 7, 8, 9]
-board1 = ["O", "X", "O", "O", "X", "X", "X", "o", "X"]
-start = "Yes"
-
         
 def display_board(board):
     
@@ -83,16 +80,6 @@ def victory_for(board):
         end = False
     return [winner, end]
 
-#def check_for_tie(board):
-#    tie = 0
-#    for i in range(10):
-#        print(board[i], isinstance(board[i], int))
-#        if board[i] == isinstance(board[i], int):
-#            tie = False
-#            break
-#        else:
-#            tie = True
-#    return tie
 
 def tic_tac_toe(start, board):
     if start != "Yes":
