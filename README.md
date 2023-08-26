@@ -3,10 +3,17 @@
 
 I'm an aspiring software engineer living in South New Jersey.
 <p align=center>
-<b>Favorite Languages &emsp; &emsp; &emsp; &emsp; &emsp;Favorite IDE's</b>
+<b>Favorite Languages 
  </p> 
  <p align=center>
-  <img src="/assets/icons8-java.svg" height="auto" width = "35" > <img src="/assets/icons8-python.svg" height="auto" width = "35"> <img src="/assets/c_language_white.png" height="auto" width = "35">   &ensp;  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; <img src="/assets/icons8-java-eclipse.svg" height="auto" width = "35"> <img src="/assets/icons8-visual-studio-50.png" height="auto" width = "35">
+ <img src="/assets/icons8-java.svg" height="auto" width = "35" > <img src="/assets/icons8-python.svg" height="auto" width = "35"> <img src="/assets/c_language_white.png" height="auto" width = "35"> 
+</p> 
+
+ <p align=center>
+Favorite IDE's</b>
+ </p> 
+ <p align=center>
+<img src="/assets/icons8-java-eclipse.svg" height="auto" width = "35"> <img src="/assets/icons8-visual-studio-50.png" height="auto" width = "35">
 </p>
 
 
