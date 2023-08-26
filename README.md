@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/01ebd863da.js" crossorigin="anonymous"></script>
-
 # Hello! I'm Laura 🙋‍♀️
 
 
@@ -7,7 +5,8 @@ I'm an aspiring software engineer living in the Philadelphia region.
 
 ## Skill Set: 
 <p align="left">
-<img src="" height="auto" width = "40">
+<img src="/assets
+/C_Programming_Language.svg" height="auto" width = "40">
 
 ### I'm currently working on:
 
