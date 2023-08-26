@@ -1,7 +1,7 @@
 # Hello! I'm Laura 🙋‍♀️
 
 
-I'm an aspiring software engineer living in the Philadelphia region. 
+I'm an aspiring software engineer living in South New Jersey.
 <p align=center>
 <b>Favorite Languages &emsp; &emsp; &emsp; &emsp; &emsp;Favorite IDE's</b>
  </p> 
