@@ -2,15 +2,12 @@
 
 
 I'm an aspiring software engineer living in the Philadelphia region. 
-
-## Skill Set: 
-<p align="left">
-<img src="/assets
-/C_Programming_Language.svg" height="auto" width = "40">
-
+<p align=center>
+<b>Favorite Languages: </b> <img src="/assets/icons8-java.svg" height="auto" width = "35"> <img src="/assets/icons8-python.svg" height="auto" width = "35"> <img src="/assets/c_language_white.png" height="auto" width = "35">   &emsp;  <b> Favorite IDE's:</b> <img src="/assets/icons8-java-eclipse.svg" height="auto" width = "35"> <img src="/assets/icons8-visual-studio-50.svg" height="auto" width = "35">
+</p>
 ### I'm currently working on:
 
-### I'm currently leearning:
+### I'm currently learning:
 
 ### What's next on my list:
 
