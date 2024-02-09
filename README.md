@@ -1,5 +1,4 @@
 # Hello! I'm Laura 🙋‍♀️
-     <span style="color:red;">your text here > </span>
 
 ### My current project uses:
 - Spring Boot MVC
